@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: CHVLinux
+Label: CHVLinux
+Architecture: amd64
+Description: CHVLinux package repository

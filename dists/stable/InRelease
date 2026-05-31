@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: CHVLinux
+Label: CHVLinux
+Suite: stable
+Codename: stable
+Date: Sun, 31 May 2026 21:49:29 UTC
+Architectures: amd64
+Components: main
+Description: CHVLinux package repository
+MD5Sum:
+ 8a62f7825b2e54e8757402bf9954f7f1 720 main/binary-amd64/Packages
+ 816856eea8d884152b19bc88b0ab2c3a 496 main/binary-amd64/Packages.gz
+ c587fba4d37c96e54a67d10e4f55fb1e 126 main/binary-amd64/Release
+SHA1:
+ 746f5602771550dae6832b038879d07c2d298454 720 main/binary-amd64/Packages
+ ab04e3716d15a68fff8f309384f79840b0ae54be 496 main/binary-amd64/Packages.gz
+ 2b08b5353980f80dd8745db0fb13dc528805ee1d 126 main/binary-amd64/Release
+SHA256:
+ 4aa72538ab0970965efe27326b3e34409e4b33a7ef01b1e6f7acc2c5199dcc8f 720 main/binary-amd64/Packages
+ b9d3287dc1e28c838bdafb0ee2dbaa87f4f88efd7d2255ac9ae1b11ab7b105b6 496 main/binary-amd64/Packages.gz
+ e303ceaa1f2bcd9971851002c09e5f46a13e79c98f662dc76331b2f96de71a7c 126 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEOOowSprKAQzAHvmFMsq8djpGhPoFAmocrOkACgkQMsq8djpG
+hPpiRxAAri8zSiu9tq9dIBKNNyCKYEik6kvAuK6WuENkyuu5cmyixGBnZ2qB4osJ
+VFfkSlPO1u9S13/WNqjbOx79CFEV7Tpjv6bU+HBfJbyU6NoQ1L6vXyJWCpAm2HJB
+fXFuC9jMkOE4nxUYX+BMVF71+36FR49f7LLxosQ6KXQEtv5bodrYmF2w/HjdmZuI
+DONYc5OlfmokLL0BjvRhoGtzFI5/G6UdprnvVevAdDzpBgMHU7lwIUr8cPT6Qt4/
+PbJX7n1w/wLJ71ND9YD33fpM7mBxV+BTg0kk+fUaRypX/YvEC4sNf5UBhBnQti9F
+SsoxoVgjHvn+xxNWYzWQbMN73V+uh56MXZAdVNdS6oezAHN0V+BHX0Qb6GSVUylD
+acuJY6YIKDJT/i4nScs/amz08hg5/Ami8fFx9MCRe25vXuBd92LAZR4G+NsNJN4t
+XSrKRjEX6amIZL25h7fCvVGukgj/x17YtkuxKmPHiRCa4GLz7snVMA6f0Byz3vpo
+2ECcyjlyUA/idjGQkv4TvL9ZRFAdkxKp3ZrpPRqi7mQapciDNx48/fczSVI39vce
+Q7sHVkXUJfAbcXIsoSPxkbuCBriHQ74W4uFHlCNrsHf2FlRRqP2uyIpu1AzPw5dA
+tCSY/JK/5q5EzI3q47X0k8Khjv3OML0lcA8W7I6m3n0QgKxRmAs=
+=1t67
+-----END PGP SIGNATURE-----

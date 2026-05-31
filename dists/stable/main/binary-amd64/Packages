@@ -1,0 +1,18 @@
+Package: chvlinux
+Version: 0.3.0
+Architecture: amd64
+Maintainer: Nnamllit1 <Nnamllit1@users.noreply.github.com>
+Installed-Size: 246
+Depends: python3:any, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), python3, python3-tk
+Priority: optional
+Section: admin
+Filename: pool/main/c/chvlinux/chvlinux_0.3.0_amd64.deb
+Size: 75826
+SHA256: d652f0490d0e79154869aeeaac5370f9800a5d811d48975d9ba34a0156f83b49
+SHA1: 68563db2d3608ae48a052686a7d9c945bccf61d1
+MD5sum: 1d778c36603a0eaad03b692bfcde9bae
+Description: CHVLinux home hypervisor control utilities
+ CHVLinux is a Debian-based home hypervisor distribution.
+ This package currently contains setup/status utilities, the GUI setup app,
+ and the C++ service skeleton.
+

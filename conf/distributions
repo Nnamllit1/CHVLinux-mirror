@@ -1,0 +1,8 @@
+Origin: CHVLinux
+Label: CHVLinux
+Codename: stable
+Suite: stable
+Architectures: amd64
+Components: main
+Description: CHVLinux package repository
+SignWith: 38EA304A9ACA010CC01EF98532CABC763A4684FA
