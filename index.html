@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CHVLinux APT Mirror</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+        --bg: #f7f7f4;
+        --fg: #1d2522;
+        --muted: #53605b;
+        --line: #cfd7d2;
+        --accent: #0f6b57;
+        --panel: #ffffff;
+        font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #111614;
+          --fg: #edf2ef;
+          --muted: #a8b5af;
+          --line: #34413c;
+          --accent: #62c7ab;
+          --panel: #18201d;
+        }
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--fg);
+        line-height: 1.5;
+      }
+
+      main {
+        width: min(920px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 56px 0;
+      }
+
+      h1 {
+        margin: 0 0 8px;
+        font-size: clamp(2rem, 4vw, 3.25rem);
+        line-height: 1.05;
+        letter-spacing: 0;
+      }
+
+      p {
+        max-width: 720px;
+        margin: 0 0 24px;
+        color: var(--muted);
+        font-size: 1.05rem;
+      }
+
+      section {
+        border-top: 1px solid var(--line);
+        padding: 24px 0;
+      }
+
+      h2 {
+        margin: 0 0 12px;
+        font-size: 1rem;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+
+      dl {
+        display: grid;
+        grid-template-columns: minmax(120px, 180px) 1fr;
+        gap: 10px 20px;
+        margin: 0;
+      }
+
+      dt {
+        color: var(--muted);
+      }
+
+      dd {
+        margin: 0;
+      }
+
+      code,
+      pre {
+        font-family: ui-monospace, "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+      }
+
+      pre {
+        overflow-x: auto;
+        margin: 0;
+        padding: 16px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel);
+      }
+
+      a {
+        color: var(--accent);
+      }
+
+      .links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>CHVLinux APT Mirror</h1>
+      <p>Static package repository for CHVLinux bootstrap and update packages.</p>
+
+      <section aria-labelledby="details-heading">
+        <h2 id="details-heading">Repository</h2>
+        <dl>
+          <dt>Suite</dt>
+          <dd><code>stable</code></dd>
+          <dt>Component</dt>
+          <dd><code>main</code></dd>
+          <dt>Architecture</dt>
+          <dd><code>amd64</code></dd>
+          <dt>Archive key</dt>
+          <dd><a href="public-key.asc">public-key.asc</a></dd>
+        </dl>
+      </section>
+
+      <section aria-labelledby="source-heading">
+        <h2 id="source-heading">Deb822 Source</h2>
+        <pre><code>Types: deb
+URIs: http://chvlinux.mirror.nnamllit.de/
+Suites: stable
+Components: main
+Architectures: amd64
+Signed-By: /usr/share/keyrings/chvlinux-archive-keyring.gpg</code></pre>
+      </section>
+
+      <section aria-labelledby="files-heading">
+        <h2 id="files-heading">Files</h2>
+        <div class="links">
+          <a href="dists/stable/Release">Release</a>
+          <a href="dists/stable/InRelease">InRelease</a>
+          <a href="dists/stable/main/binary-amd64/Packages">Packages</a>
+          <a href="pool/main/c/chvlinux/">Package pool</a>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
