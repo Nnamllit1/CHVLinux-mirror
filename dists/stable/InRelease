@@ -6,35 +6,35 @@ Origin: CHVLinux
 Label: CHVLinux
 Suite: stable
 Codename: stable
-Date: Mon, 01 Jun 2026 05:21:32 UTC
+Date: Mon, 01 Jun 2026 05:25:49 UTC
 Architectures: amd64
 Components: main
 Description: CHVLinux package repository
 MD5Sum:
- a7b1e18cc3f1abdc3ae29653af65d7c9 11982 main/binary-amd64/Packages
- ba16729ac7f6e631cca092498f677169 2804 main/binary-amd64/Packages.gz
+ 30060e591d52dde9c74630467e81ed04 11982 main/binary-amd64/Packages
+ 24eae35fa6291ee735e45db673712e52 2805 main/binary-amd64/Packages.gz
  c587fba4d37c96e54a67d10e4f55fb1e 126 main/binary-amd64/Release
 SHA1:
- 81cad6827a1394e29343e23261edfc8d2eab8d00 11982 main/binary-amd64/Packages
- ac62f26f1f766384d346c979728b04c93ad90a98 2804 main/binary-amd64/Packages.gz
+ 92e62acef718204d9db00ce1a874cac92ef20f99 11982 main/binary-amd64/Packages
+ c170c147b22e59d782707224dd82337d37384fe6 2805 main/binary-amd64/Packages.gz
  2b08b5353980f80dd8745db0fb13dc528805ee1d 126 main/binary-amd64/Release
 SHA256:
- 577931c74b83b989fdf3d59e8c459128105840436386b482818688c778b4c5eb 11982 main/binary-amd64/Packages
- 1b0e25ded15818eeda66a4f0236ec55807463191cc17fc823f6fba7ec81bb6de 2804 main/binary-amd64/Packages.gz
+ 73e4e3d61a8a904bb311ef173d02de248872b263aa79b366d20bf473548a6c7a 11982 main/binary-amd64/Packages
+ 98241fc87e60794c96d8b0a5be729d86c6defcf566665dcc6533667182d77f40 2805 main/binary-amd64/Packages.gz
  e303ceaa1f2bcd9971851002c09e5f46a13e79c98f662dc76331b2f96de71a7c 126 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEOOowSprKAQzAHvmFMsq8djpGhPoFAmodFuIACgkQMsq8djpG
-hPo/xxAAsSRWBOrHphXTd33uwvHRn75D6xc/dkw9znxAwdqiSfOy1pBFzerg2DqU
-C2p12m/LDlQUX14eDIQhopjCbs6R/t8kRsdQmD7vasXEaSJu6/mELhFtBiAWUcoi
-YUSzceoHa3GTALtLHlnSMqU6KZaS2j66M3RubrZ0tCcUHYyj9nqovge5pjSSzpgM
-WZOxm6H3Z9tqTM3U+MfHFQX0+/24TZwpeD8SKi9PzIxfCD4uNPdpnzkT2NNjYmy7
-Lwyec88d8wjPN8Xi7RqULgwWhzT3I3neO/z4zZP3UR6VZtpTphabb4UUagWShmcJ
-uGUf1NqeWExed5KoVz4AgiXUMKPIZZPu+pRopZ8pQZW2o/DRkeiizpk2sFpREhln
-WS17/sjBC9q9ureuXd48K2WFyfy1Mu/7sAdIhJKcRGgpvVJJ1NZpELrczm429ry9
-U43ZPGoEDTr9ssMxhPNNgZjSrbyB1YEX+72U3SkjgSVTduwmllwrB2Re8tPtfyzA
-dqeUihmD7wkp2Kx/2aXluKETGQKXO5r6PVCZeZ1cC/0eT4cM17KoOskaQjr/gUPv
-rS2hvYaGyMISmISysH3j7Wmyl8bAF5cYjgQCGVxMylOfmRT1zG32M5sSU1/ZHJsf
-6If9mEMVasY/s93B3sFwRBuSCEj9kdPds/niy0jTa7UlS062MN4=
-=iTXs
+iQIzBAEBCAAdFiEEOOowSprKAQzAHvmFMsq8djpGhPoFAmodF+YACgkQMsq8djpG
+hPr/qRAAjHJEGLjt7WbBkR0oGRIo5c+MKpHinSiv6BzO1z+91J3cwSotr3aUWPHv
+E0sC4arglXlNR4KwriDCOZC3h+fg0V8VxjLcYf0G6yx2KokwCBjv0zbSprIrSOnA
+wYF2eubb2SKVT6Be2VNAM0NgOoGBtBmcnLUybbYEu0p9vkWWO8w4PymIuuRDmoB8
+6YjWf7bCq0SXzQ37ndyiVOPZ8A+3t6ZhXxzfzywn4tyGMrx3w8F0IxjzuhY3Xv35
+a6syEjW8cAsc689UfGnSGdP9ZD+N2KaCEkviLQtVm0wOXGZL7EnubqyAo3C+RTUo
+vDC0qIpzFuTNWCD+kYkP5lwMDoXj+NOGBILI529LS6c4LPv4WY+lJOUsy/M7oI03
+1dfaNLtWYZm/WdVChRCZ8KTeD7f9xcjqXO8lCaiCOyUbd4cMAMHDnkFrsOYczIzX
+QUOMoI3ixhN2YHCHV4ZuVfoPYPpxq38ZPyxs28/ExLq3nA80kVJYuzPYZgzQc0Zb
+sl8fq4A2cL30yESkswsZ+MDEvyWOaP7p6XD09YxcAKh7EGySwXQvdVDmosf4k6OD
+HWqDmC09leR/6Q/hXB2rRTVQcBn0G2PrpzX3KleSg4c87ZHsGEBtBEVDB5BhwpQQ
+gfXhKja2MKHtbHSPkM1VFO/P3g9Xhyvk5eMdHuQr7e24+vdr3aA=
+=mAtd
 -----END PGP SIGNATURE-----
