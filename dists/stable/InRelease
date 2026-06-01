@@ -6,35 +6,35 @@ Origin: CHVLinux
 Label: CHVLinux
 Suite: stable
 Codename: stable
-Date: Mon, 01 Jun 2026 20:39:48 UTC
+Date: Mon, 01 Jun 2026 21:33:38 UTC
 Architectures: amd64
 Components: main
 Description: CHVLinux package repository
 MD5Sum:
- 0090b27c21e421650dcb8ab75d516d45 13566 main/binary-amd64/Packages
- 1e2091a888df4d1e01f9d5c410f6b5a7 3163 main/binary-amd64/Packages.gz
+ 6b002b2b7a9e62116436b9748f920082 13546 main/binary-amd64/Packages
+ cb50e83c7cffaa903536ff7d9326a15e 3166 main/binary-amd64/Packages.gz
  c587fba4d37c96e54a67d10e4f55fb1e 126 main/binary-amd64/Release
 SHA1:
- 072e837427b8a21ae13a318c3736ac3599206ac5 13566 main/binary-amd64/Packages
- 754abe44ba24417ab157c3057d1d4e0cc8c748ce 3163 main/binary-amd64/Packages.gz
+ 011e3177c69f3516437a7e92561b871029b93d19 13546 main/binary-amd64/Packages
+ cfbc54792e8ea18531239bbe6aaf7b2abf221880 3166 main/binary-amd64/Packages.gz
  2b08b5353980f80dd8745db0fb13dc528805ee1d 126 main/binary-amd64/Release
 SHA256:
- 13c7ebbe9cf9f2236565a1910ac695d6912ab67b4f11c79bf2deff1071837b60 13566 main/binary-amd64/Packages
- 319fddb383bc359c7ad3eeded481f976d08d2cc4eeb6654a73eb4de5da839a21 3163 main/binary-amd64/Packages.gz
+ b7bb255cd28f70c40b644a3180218b5b6b58b1153824947a50ea4ec132c871e0 13546 main/binary-amd64/Packages
+ f0192b34633f9f56b6622866859d40ca2b0be93b02c62484db87dcef37b8ae1c 3166 main/binary-amd64/Packages.gz
  e303ceaa1f2bcd9971851002c09e5f46a13e79c98f662dc76331b2f96de71a7c 126 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEOOowSprKAQzAHvmFMsq8djpGhPoFAmod7hQACgkQMsq8djpG
-hPq0YQ//UuBhCjyPO/rkOAxtTE63gTyz7a4bA0n4rzKN61mPMy1NWkYuKusRs2IC
-gVZWgTqq+FvoJsWR3l+joo+6AQ3qn5WpLM+erap09pNwc2Hg2UrQscBXSTz3at/c
-kMI/EbLqaRCZ2wsOmkwyBIya2Qc74grb2e1GzY0ADrP7j8jEb1DEx5Tg/Mg6k4/v
-FDn/gq/o0nG4iuF/OY0WMs5QIwOKT5v7fU4DQ2YUIRaVdPlO9jI8jbPlUXsQShGM
-vGoSsuBU6V/Ex5Ftj7Xp+erfjGzaqbBK1/hyc5DbN3bVILd4A6wruBXI2jQXX8Cw
-xCB639zI8tqr6a7Z1yJqwJ7F65yMGzycdvKe9t6kOh76KqZtBnLqT9G0IpfBlN/U
-8+ZlcUfiqVUV8pF/OeluCtmkxWT+tBky4h11QJiNqumxxU1aIHLiIDER9k/Sj3Me
-RwNkZaEiZZrdBlBwwMhkVH0PzGYW9zYNGgtGC6eTah1Q8ha6g7XdP5d5ORrHUxgO
-fsFLabo9USZO+FSwMLmVZT4+ExaFOREhKvRyfPhe/72BZa0AAXP90V2NUHGquveX
-zdNSAuQUUt5BP+bKdTQRGhtSw7Z4oww6YiZnMVE46YaC6eyTI/sB8K4oYYp96jcE
-Yh4emlKlDK0Zhz5t22B8rhnEuDS7PWhbI1XKCYh9JGm1IUsAWi4=
-=V6ls
+iQIzBAEBCAAdFiEEOOowSprKAQzAHvmFMsq8djpGhPoFAmod+rMACgkQMsq8djpG
+hPqoahAAy10KVVrN1k+xTRygGyA9grPxU4s3Wo83qz+Fr89AMXH9eDIZOR/rYX0o
+SbWg07OUcUzfhIZYMokWqfH3Ogkx6QSJhzeq3DLGKL00uzqrn917pnum6/wCU1HV
+mXT2vkpCQnJ4wz1n3lepsFnM55P57NxA+uNe34ogp71FsX9DqD+y7FZPvUHVl4VC
+zVVJmdA+iXCm30p9H3kvv2n02Hm/3eb9QZTpo+efnbaAt5p0+a+yY5GzEJclLr6b
+AwlfxXUr49Kn76oqZRxf35jJHjwWJ8Z0UJI5CvYFiCJMKRZM2aNu5g+JMKf4P2j1
+5m4Dk7L1viJRuoCbfP9vxDVJbVAegOd2iXMfYGZzYs6hAWUiyxxNOfldJVCuLUAa
+8EHMEMeTf3VajTjkpBW1HP58acl1p8Bh4GyVLTLoEyipiPyGpTi0UBAT1JiP6D1e
+QBY7iAOYDV9rjQfTO7BJVHkioZqOUzrYTVa6L2mzDK6KeDyu/4Bj9esSBk8PpkgY
+t448w62q2qE0necH1JlLnB8vCVReVjhbRMRVgeucTPoony2sDY+aEX4YHrhhBB4Z
+vuHrg5PfK3hvytMecKo/6O8kA1jdOrpZzOPeTlBgotDOzxxJJ0g0bfF5MfxWITS7
+MU1oyO5hHODDLnPWK2ZTBhCPj2JSG6d/dD7tKLrwJNFLlUIDWjo=
+=CMHV
 -----END PGP SIGNATURE-----
