@@ -2,7 +2,7 @@
 
 Static APT repository for CHVLinux packages.
 
-- URL: `http://chvlinux.mirror.nnamllit.de/`
+- URL: `https://chvlinux-mirror.nnamllit.de/`
 - Suite: `stable`
 - Component: `main`
 - Architecture: `amd64`
@@ -12,7 +12,7 @@ Deb822 source:
 
 ```text
 Types: deb
-URIs: http://chvlinux.mirror.nnamllit.de/
+URIs: https://chvlinux-mirror.nnamllit.de/
 Suites: stable
 Components: main
 Architectures: amd64
