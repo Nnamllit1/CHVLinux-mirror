@@ -19,8 +19,6 @@ Architectures: amd64
 Signed-By: /usr/share/keyrings/chvlinux-archive-keyring.gpg
 ```
 
-Only the public archive key belongs in this repository. Keep the private signing key in GitHub secrets or another private key store.
-
 After publishing packages with `reprepro`, run:
 
 ```sh
