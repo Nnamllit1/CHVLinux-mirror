@@ -2,19 +2,19 @@ Origin: CHVLinux
 Label: CHVLinux
 Suite: stable
 Codename: stable
-Date: Sun, 31 May 2026 21:49:29 UTC
+Date: Mon, 01 Jun 2026 05:07:27 UTC
 Architectures: amd64
 Components: main
 Description: CHVLinux package repository
 MD5Sum:
- 8a62f7825b2e54e8757402bf9954f7f1 720 main/binary-amd64/Packages
- 816856eea8d884152b19bc88b0ab2c3a 496 main/binary-amd64/Packages.gz
+ 536082d056c93f9ab8e03cf133685ea0 720 main/binary-amd64/Packages
+ d97ca990a7ef661aec6dd9290a9cf865 497 main/binary-amd64/Packages.gz
  c587fba4d37c96e54a67d10e4f55fb1e 126 main/binary-amd64/Release
 SHA1:
- 746f5602771550dae6832b038879d07c2d298454 720 main/binary-amd64/Packages
- ab04e3716d15a68fff8f309384f79840b0ae54be 496 main/binary-amd64/Packages.gz
+ a85d475e17a9cc16d269f4b38c0ff1336bf623da 720 main/binary-amd64/Packages
+ ed8b580a0a48aa6580f88553393fd2a219ee393d 497 main/binary-amd64/Packages.gz
  2b08b5353980f80dd8745db0fb13dc528805ee1d 126 main/binary-amd64/Release
 SHA256:
- 4aa72538ab0970965efe27326b3e34409e4b33a7ef01b1e6f7acc2c5199dcc8f 720 main/binary-amd64/Packages
- b9d3287dc1e28c838bdafb0ee2dbaa87f4f88efd7d2255ac9ae1b11ab7b105b6 496 main/binary-amd64/Packages.gz
+ d9febb5a18c548b25cf2983e7e40b5895dfedbdb327852f7013e3632d39f8309 720 main/binary-amd64/Packages
+ 4743000b09c49fb42daabc84dd280858810edc6f485c4004286a26856209a424 497 main/binary-amd64/Packages.gz
  e303ceaa1f2bcd9971851002c09e5f46a13e79c98f662dc76331b2f96de71a7c 126 main/binary-amd64/Release
