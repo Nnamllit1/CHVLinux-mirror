@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">CHVLinux mark</title>
+  <path fill="#7B5CFF" d="M92 86 210 18v64l-62 36v158l-56-32z"/>
+  <path fill="#F6F7FA" d="M174 110h58v104h48V110h58v252h-58v-94h-48v94h-58z"/>
+  <path fill="#00B8D9" d="m92 286 56 32 108 104 108-104 56-32v70L256 494 92 356z"/>
+  <path fill="#00C2A8" d="m256 422 108-104 56-32v70L256 494z"/>
+  <g fill="#161B22">
+    <rect x="230" y="280" width="52" height="18" rx="5"/>
+    <rect x="230" y="304" width="52" height="18" rx="5"/>
+    <rect x="230" y="328" width="52" height="18" rx="5"/>
+  </g>
+  <g fill="#7A8596">
+    <circle cx="270" cy="289" r="3"/>
+    <circle cx="270" cy="313" r="3"/>
+    <circle cx="270" cy="337" r="3"/>
+  </g>
+  <g fill="none" stroke="#7B5CFF" stroke-width="14">
+    <path d="M112 338h62l36 28M400 338h-62l-36 28"/>
+    <circle cx="92" cy="338" r="20" fill="#0B1323"/>
+    <circle cx="420" cy="338" r="20" fill="#0B1323"/>
+  </g>
+</svg>

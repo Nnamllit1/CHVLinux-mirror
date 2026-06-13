@@ -3,27 +3,34 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0b1323">
+    <meta property="og:title" content="CHVLinux APT Mirror">
+    <meta property="og:description" content="Signed package repository for CHVLinux node systems.">
+    <meta property="og:image" content="https://chvlinux-mirror.nnamllit.de/assets/brand/chvlinux-social-banner.png">
+    <link rel="icon" href="assets/brand/chvlinux-mark.svg" type="image/svg+xml">
+    <link rel="icon" href="assets/brand/favicon.ico" sizes="any">
+    <link rel="apple-touch-icon" href="assets/brand/chvlinux-mark-180.png">
     <title>CHVLinux APT Mirror</title>
     <style>
       :root {
         color-scheme: light dark;
         --bg: #f7f7f4;
-        --fg: #1d2522;
-        --muted: #53605b;
-        --line: #cfd7d2;
-        --accent: #0f6b57;
+        --fg: #0b1323;
+        --muted: #536173;
+        --line: #ccd5df;
+        --accent: #008da8;
         --panel: #ffffff;
         font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       }
 
       @media (prefers-color-scheme: dark) {
         :root {
-          --bg: #111614;
+          --bg: #111722;
           --fg: #edf2ef;
-          --muted: #a8b5af;
-          --line: #34413c;
-          --accent: #62c7ab;
-          --panel: #18201d;
+          --muted: #9aa7b8;
+          --line: #2d394a;
+          --accent: #00b8d9;
+          --panel: #161b22;
         }
       }
 
@@ -45,7 +52,7 @@
       }
 
       h1 {
-        margin: 0 0 8px;
+        margin: 0;
         font-size: clamp(2rem, 4vw, 3.25rem);
         line-height: 1.05;
         letter-spacing: 0;
@@ -108,12 +115,54 @@
         flex-wrap: wrap;
         gap: 12px;
       }
+
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 22px;
+        margin-bottom: 34px;
+      }
+
+      .brand-mark {
+        width: 104px;
+        height: 104px;
+        flex: 0 0 auto;
+        padding: 10px;
+        border: 1px solid #27364b;
+        border-radius: 24px;
+        background: #0b1323;
+      }
+
+      .brand-name span {
+        color: var(--accent);
+      }
+
+      .brand p {
+        margin: 8px 0 0;
+      }
+
+      @media (max-width: 520px) {
+        .brand {
+          align-items: flex-start;
+        }
+
+        .brand-mark {
+          width: 72px;
+          height: 72px;
+          border-radius: 18px;
+        }
+      }
     </style>
   </head>
   <body>
     <main>
-      <h1>CHVLinux APT Mirror</h1>
-      <p>Static package repository for CHVLinux bootstrap and update packages.</p>
+      <header class="brand">
+        <img class="brand-mark" src="assets/brand/chvlinux-mark.svg" alt="CHVLinux">
+        <div>
+          <h1 class="brand-name">CHV<span>Linux</span> APT Mirror</h1>
+          <p>Signed package repository for CHVLinux node systems.</p>
+        </div>
+      </header>
 
       <section aria-labelledby="details-heading">
         <h2 id="details-heading">Repository</h2>
